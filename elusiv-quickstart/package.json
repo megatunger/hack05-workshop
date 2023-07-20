@@ -1,0 +1,16 @@
+{
+  "name": "elusiv-quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elusiv/sdk": "^0.1.18",
+    "@solana/web3.js": "^1.78.0"
+  }
+}
