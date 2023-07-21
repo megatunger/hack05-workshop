@@ -21,20 +21,12 @@
 - Ngôn ngữ Javascript / Typescript
 - Làm việc với React.js / Next.js
 
-### 2. Tài liệu về các SDK
+### 3. Tài liệu về các SDK
 
 - xNFT: https://docs.xnft.gg
 - Backpack: https://docs.xnfts.dev/ 
 - Elusiv: https://elusiv-privacy.github.io/elusiv-sdk/
 
+### 4. Slide
 
-### 3. Bắt đầu Dev với Backpack
-
-### 4. Bắt đầu Dev với Elusiv
-
-### 5. Bài tập
-
-
-### 4. Ý tưởng
-
-### 5. Những 
+https://docs.google.com/presentation/d/1MuZatdSQp1aSnUpX9_IeH0eoa8cxn0Ci0uXw9V3SrGk/edit?usp=sharing
