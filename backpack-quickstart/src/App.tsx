@@ -10,7 +10,10 @@ import { ExamplesScreens } from "./screens/ExamplesScreen";
 import { HomeScreen } from "./screens/HomeScreen";
 import { TokenListNavigator } from "./screens/TokenNavigator";
 import { NftScreen } from "./screens/NftScreen";
+import { Buffer } from "buffer";
 
+// @ts-ignore
+window.Buffer = Buffer;
 const Tab = createBottomTabNavigator();
 
 function TabNavigator() {
