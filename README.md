@@ -1,4 +1,4 @@
-# Chào mừng đến với Hack 06!
+# Chào mừng đến với Hack 05!
 
 Đây là workshop giới thiệu về Backpack + Elusiv trong hệ sinh thái Solana.
 
